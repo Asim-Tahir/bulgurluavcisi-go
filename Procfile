@@ -1,1 +1,1 @@
-worker: bin/bulgurluavcisi
+worker: bin/bulgurluavcisi-reddit
